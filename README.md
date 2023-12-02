@@ -1,5 +1,28 @@
-### Hi there 👋
+![Banner Image](./banner.png)
 
+### Hi Everyone 👋
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Narennrs1.Narennrs1)
+
+This is Narayana
+- <i>Currently:</i> Data Science student at Guvi. 
+- <i>Education:</i> I am MBA graduate.
+
+
+<h2>Stats</h2>
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narennrs1" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
+
+
+
+<p align="center">
+<b><em>Point of Contacting:</em></b> <br/>
+  
+<a href="mailto:narennrsj@gmail.com">![narennrsj@gamil.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://www.linkedin.com/in/narayana-ram-sekar-b689a9201/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 **Narennrs1/Narennrs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
