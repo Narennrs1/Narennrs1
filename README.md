@@ -1,4 +1,4 @@
-![Banner Image](./banner.png)
+![Banner Image](./flyer.png)
 
 ### Hi Everyone 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Narennrs1.Narennrs1)
@@ -6,6 +6,19 @@
 This is Narayana
 - <i>Currently:</i> Data Science student at Guvi. 
 - <i>Education:</i> I am MBA graduate.
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/Narennrs1/PHONEPE-PLUSE-VISUALIZATION">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narennrs1&repo=PHONEPE-PLUSE-VISUALIZATION" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/Narennrs1/YOUTUBE-DATA-HARVESTING-AND-WAREHOUSE">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narennrs1&repo=YOUTUBE-DATA-HARVESTING-AND-WAREHOUSE" alt="GitHub Stats"/>
+    </a>
+  </p>
+</div>
 
 
 <h2>Stats</h2>
