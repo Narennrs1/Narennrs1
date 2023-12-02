@@ -1,14 +1,15 @@
 ![Banner Image](./flyer.png)
 
-### Hi Everyone 👋
+### Hi Everyone 🫶
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Narennrs1.Narennrs1)
 
-This is Narayana
+**This is Narayana ✅**
 - <i>Currently:</i> Data Science student at Guvi. 
 - <i>Education:</i> I am MBA graduate.
 
-__Check out my GitHub repository:__
-
+<p align="left">
+<b><em>TOP REPO </em></b> <br/>
+  
 <div>
   <p>
     <a href="https://github.com/Narennrs1/PHONEPE-PLUSE-VISUALIZATION">
@@ -21,7 +22,8 @@ __Check out my GitHub repository:__
 </div>
 
 
-<h2>Stats</h2>
+<p align="center">
+<b><em>STATS:</em></b> <br/>
 
 <div>
   <p align="center">
@@ -30,6 +32,11 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
+<p align="center">
+<b><em>TOP LANGUAGE:</em></b> <br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narennrs1&layout=compact)
 
 
 <p align="center">
