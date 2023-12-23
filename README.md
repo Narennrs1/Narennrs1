@@ -12,8 +12,8 @@
   
 <div>
   <p>
-    <a href="https://github.com/Narennrs1/PHONEPE-PLUSE-VISUALIZATION">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narennrs1&repo=PHONEPE-PLUSE-VISUALIZATION" alt="GitHub Stats"/>
+    <a href="https://github.com/Narennrs1/Airbnb_data_analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narennrs1&repo=Airbnb_data_analysis" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/Narennrs1/YOUTUBE-DATA-HARVESTING-AND-WAREHOUSE">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narennrs1&repo=YOUTUBE-DATA-HARVESTING-AND-WAREHOUSE" alt="GitHub Stats"/>
